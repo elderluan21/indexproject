@@ -1,0 +1,119 @@
+body {
+    font-family: Poppins ;
+}
+.nav-link {
+    padding-left: 100px;
+    
+
+}
+.btn-projeto{
+    margin-left: 100px;
+    background-color: #2500f9;
+    border-style: ;
+    
+}
+
+#principal-direita{
+    margin-top: 390px;
+}
+#principal-esquerda {
+    margin-top:100px;
+}
+#titulo {
+    font-size: bold;
+}
+#segundo-botao{
+    margin-right: 70px;
+    margin-left: 10px;
+}
+#botao-nav {
+   border: 0px;
+   margin-left: 50px;
+}
+#terceiro-sub {
+    text-align:center;
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+#paragrafo-3 {
+    text-align: center;
+    padding-bottom: 100px;
+}
+#secundario-esquerdo {
+    height: 470px;
+    text-align: left;
+
+}
+#secundario-direito{
+    margin-top: 130px;
+
+}
+#segundo-botao {
+    border: 0px;
+    padding-left: 20px;
+}
+
+
+#quarta-parte {
+    text-align: center;
+}
+#quinta-parte{
+    text-align: center;
+}
+#sexta-parte {
+    text-align: center;
+}
+#setima-parte {
+    text-align: center;
+}
+#oitava-parte {
+    text-align: center;
+}
+#nona-parte {
+    text-align: center;
+}
+#imagem-setima {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+#imagem-oitava {
+    padding-top:30px ;
+    padding-bottom: 20px;
+}
+#imagem-nona {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+#decima-parte {
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom:100px ;
+}
+#info-import {
+    padding-bottom: 100px;
+}
+#accordion {
+    padding-bottom: 80px;
+}
+#accordion {
+    padding-bottom: 28px;
+}
+#foto-google-play {
+    padding-right: 28px;
+    padding-top: 50px;
+}
+#app-store {
+    padding-top:50px ;
+}
+#ultima-foto-g {
+    width:800px;
+    padding-bottom: 100px;
+}
+#ultima-parte {
+    padding-top: 100px; 
+    padding-bottom: 80px;
+}
+#link {
+    margin-left: 30px;
+    text-decoration: none;
+}
